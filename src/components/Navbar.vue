@@ -11,7 +11,7 @@
           <i v-if="isDark" class='bx bx-sun text-gray-700 text-xl dark:text-white'></i>
           <i v-else aria-hidden="true" class='bx bx-moon text-gray-700 text-xl'></i>
         </button>
-        <a href="" class="inline-flex justify-center items-center w-8 h-8 rounded-full hover:bg-gray-200 dark:hover:bg-gray-600"
+        <a href="https://github.com/indraAK" target="_blank" class="inline-flex justify-center items-center w-8 h-8 rounded-full hover:bg-gray-200 dark:hover:bg-gray-600"
           title="Source Code">
           <i class='bx bxl-github text-gray-700 text-xl dark:text-white'></i>
         </a>
